@@ -1,0 +1,33 @@
+/* Body Style */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Heading Style */
+h1 {
+    color: darkblue;
+}
+
+/* Paragraph Style */
+p {
+    color: green;
+    font-size: 20px;
+}
+
+/* Button Style */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Button Hover Effect */
+button:hover {
+    background-color: darkblue;
+}
